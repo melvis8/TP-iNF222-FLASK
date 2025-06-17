@@ -14,6 +14,9 @@ A comprehensive hospital management system built with Flask, PostgreSQL, and mac
 - Containerized Deployment: Docker and Docker Compose support
 - Database Migrations: Flask-Migrate for database schema management
 
+REPOSITORY                         TAG          IMAGE ID       CREATED          SIZE
+docker_image-web                   latest       8bdac8810724   17 minutes ago   830MB
+
 
 
 Start the application with docker
