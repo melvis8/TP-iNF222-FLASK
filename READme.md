@@ -37,7 +37,7 @@ A comprehensive hospital management system built with Flask, PostgreSQL, and mac
 Clone the project
 
 ```bash
-  git clone git@github.com:melvis8/TPINF22-FLASK.git hospital-management
+  git clone git@github.com:melvis8/TP-iNF222-FLASK.git
 cd hospital-management
 ```
 
